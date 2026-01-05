@@ -1,0 +1,53 @@
+.main-bg-color {
+    background-color: rgb(38, 38, 38) !important;
+    
+}
+
+.main-color {
+    color: white !important;
+}
+
+.banner {
+    height: 70vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(book-background-lots-vintage-books-600nw-2592394275.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.banner-satu {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(book-background-lots-vintage-books-600nw-2592394275.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.img {
+    height: 40px;
+    border-radius: 50px;
+}
+
+.hovered-card{
+    transition: .3s;
+}
+
+.hovered-card:hover{
+    transform: scale(1.1);
+}
+
+#tabelTransaksi th,
+#tabelTransaksi td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#tabelTransaksi {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table-dark th {
+    background-color: #0d6efd;
+}
+
